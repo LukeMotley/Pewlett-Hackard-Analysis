@@ -2,6 +2,8 @@
 ## Overview of the analysis:
 Pewlett Hackard, a large company of thousands of employees is preparing for the soon wave of retirement that will soon sweep through the company. Becuase of the large number of baby boomers in the workforce, the company must find insights as to how to fill the rolls left by the upcoming exodus. The following queries calculate the number of retiring employees by their title and employees that are eligible for the mentorship program that will help train the people that will fill the position vacuum.
 
+![image](https://user-images.githubusercontent.com/85656361/143059741-0dbf6835-2985-4db7-9558-dce01d99551e.png)
+
 ## Results:
 
 ### Proivde a bulleted list with four major points from the two analysis delieverals. Use images
